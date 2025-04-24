@@ -1,3 +1,3 @@
-# my-fake-commerce-trust-integ
-Meant to be a fake replica of https://github.com/Shopify/commerce-trust-integ/ to demonstrate GitHub Discussions
+# What's this?
+Just a repo to demonstrate how [GitHub Discussions](https://docs.github.com/en/discussions/quickstart#introduction) could be useful
 
